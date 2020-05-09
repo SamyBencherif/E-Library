@@ -1,7 +1,7 @@
 <h1>Samy's E-Library</h1>
 
 <p>
-This is my personal collection of topics I would like to learn about. A lot of it is focused on Computer Game Development and Programming, but there are a variaty of topics under different subjects. The best way to use this site is to use the "visited link" feature to keep track of what you have already read. I am hoping to update this page with more links.
+This is my personal collection of topics I would like to learn about. A lot of it is focused on Computer Game Development and Programming, but there are a variaty of topics under different subjects. The best way to use this site is to use the "visited link" feature to keep track of what you have already read. I am hoping to update this page with more links. Feel free to leave an issue or make a pull request with suggestions. Planned additions are in <a href="https://docs.google.com/document/d/1RftBQUZPqEuY1xbBVrI83EtoH1R360n52glsaqNQ5vc/edit?usp=sharing">this Google document</a>.
 </p>
 
 <ul><p>
