@@ -40,10 +40,10 @@ This is my personal collection of topics I would like to learn about. A lot of i
 <ul><p>
 <li><h3>Games</h3>
 <ul><p>
-<li><a href="https://en.wikipedia.org/wiki/Costume_Quest">Costume Quest - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/9:_The_Last_Resort">9: The Last Resort - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Portal_(video_game)">Portal (video game) - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Portal_2">Portal 2 - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Costume_Quest">Costume Quest</a></li>
+<li><a href="https://en.wikipedia.org/wiki/9:_The_Last_Resort">9: The Last Resort</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Portal_(video_game)">Portal (video game)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Portal_2">Portal 2</a></li>
 <li><h3>Podcasts</h3>
 <ul><p>
 <li><a href="http://idlethumbs.net/tonecontrol/episodes/davey-wreden-1">Idle Thumbs - Davey Wreden</a></li>
@@ -53,8 +53,8 @@ This is my personal collection of topics I would like to learn about. A lot of i
 </p></ul></li>
 <li><h3>Television</h3>
 <ul><p>
-<li><a href="https://en.wikipedia.org/wiki/Love,_Death_%26_Robots">Love, Death &amp; Robots - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Disenchantment_(TV_series)#Episodes">Disenchantment (TV series) - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Love,_Death_%26_Robots">Love, Death &amp; Robots</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Disenchantment_(TV_series)#Episodes">Disenchantment (TV series)</a></li>
 <li><a href="https://books.google.com/books?id=M4PCBAAAQBAJ">Adventure Time and Philosophy: The Handbook for Heroes</a></li>
 </p></ul></li>
 <li><h3>Books</h3>
@@ -63,11 +63,11 @@ This is my personal collection of topics I would like to learn about. A lot of i
 </p></ul></li>
 <li><h3>Comics</h3>
 <ul><p>
-<li><a href="https://en.wikipedia.org/wiki/Smokey_Stover">Smokey Stover - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Smokey_Stover">Smokey Stover</a></li>
 </p></ul></li>
 <li><h3>Game Design</h3>
 <ul><p>
-<li><a href="https://en.wikipedia.org/wiki/William_Pugh_(game_designer)">William Pugh (game designer) - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/William_Pugh_(game_designer)">William Pugh (game designer)</a></li>
 </p></ul></li>
 <li><h3>Literature</h3>
 <ul><p>
@@ -99,9 +99,9 @@ This is my personal collection of topics I would like to learn about. A lot of i
 
 <li><h3>Language</h3>
 <ul><p>
-<li><a href="https://en.wikipedia.org/wiki/Linear_B">Linear B - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Uralic_languages">Uralic languages - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Urheimat">Urheimat - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Linear_B">Linear B</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Uralic_languages">Uralic languages</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Urheimat">Urheimat</a></li>
 <li><a href="http://www.studyenglishtoday.net/">http://www.studyenglishtoday.net/</a></li>
 <li><a href="https://jbdowse.com/ipa/">IPA Charts with Audio</a></li>
 <li><a href="http://www.famsi.org/research/pitts/MayaGlyphsBook1Sect1.pdf">Maya Glyphs</a></li>
@@ -121,7 +121,7 @@ This is my personal collection of topics I would like to learn about. A lot of i
 <li><a href="http://www.cs.cmu.edu/afs/cs/academic/class/15122-n16/www/">15-122: Principles of Imperative Computation</a></li>
 <li><a href="https://inconvergent.net/2016/shepherding-random-numbers/#introduction">Shepherding Random Numbers · inconvergent</a></li>
 <li><a href="https://arxiv.org/pdf/1607.01952.pdf">A First Look at User Activity on Tinder</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Hyper-threading">Hyper-threading - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Hyper-threading">Hyper-threading</a></li>
 <li><a href="https://graphics.pixar.com/library/">Pixar Graphics Library</a></li>
 <li><a href="https://graphics.pixar.com/library/ApproxBSSRDF/approxbssrdfslides.pdf">Approximate Reflectance Profiles for Efficient Subsurface Scattering</a></li>
 </p></ul></li>
@@ -129,7 +129,7 @@ This is my personal collection of topics I would like to learn about. A lot of i
 <li><h3>Scientific History</h3>
 <ul><p>
 <li><a href="https://en.wikipedia.org/wiki/Galileo_Galilei">Galileo Galilei</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Theory_of_impetus">Theory of impetus - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Theory_of_impetus">Theory of impetus</a></li>
 </p></ul></li>
 
 <li><h3>Psychology</h3>
@@ -146,18 +146,18 @@ This is my personal collection of topics I would like to learn about. A lot of i
 
 <li><h3>Medicine</h3>
 <ul><p>
-<li><a href="https://en.wikipedia.org/wiki/Allergic_rhinitis">Allergic rhinitis - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Aspirin">Aspirin - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Allergic_rhinitis">Allergic rhinitis</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Aspirin">Aspirin</a></li>
 </p></ul></li>
 
 <li><h3>Spiritual</h3>
 <ul><p>
-<li><a href="https://en.wikipedia.org/wiki/Subtle_body">Subtle body - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Chakra">Chakra - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Subtle_body">Subtle body</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Chakra">Chakra</a></li>
 </p></ul></li>
 
 <li><h3>Writing</h3>
 <ul><p>
-<li><a href="https://en.wikipedia.org/wiki/Bechdel_test">Bechdel test - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Bechdel_test">Bechdel test</a></li>
 </p></ul></li>
 </p></ul></li>
