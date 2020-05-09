@@ -1,4 +1,3 @@
-<title>E-Library</title>
 <h1>Samy's E-Library</h1>
 
 <p>
