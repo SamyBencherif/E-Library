@@ -87,7 +87,7 @@ This is my personal collection of topics I would like to learn about. A lot of i
 
 <li><h3>Mathematics</h3>
 <ul><p>
-<li><a href="http://people.math.gatech.edu/~cain/winter99/ch3.pdf">people.math.gatech.edu/~cain/winter99/ch3.pdf</a></li>
+<li><a href="http://people.math.gatech.edu/~cain/winter99/ch1.pdf">Georgia Tech, George Cain: Complex Analysis Chapter 1</a></li>
 <li><a href="http://docs.scipy.org/doc/numpy/reference/routines.fft.html">Discrete Fourier Transform (numpy.fft) — NumPy v1.8 Manual</a></li>
 <li><a href="https://www.cs.cmu.edu/~adamchik/articles/AMC.pdf">AMC.pdf</a></li>
 <li><a href="http://scienzamedia.uniroma2.it/~eal/Wiles-Fermat.pdf">FLT Proof</a></li>
