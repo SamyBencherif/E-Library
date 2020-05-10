@@ -148,6 +148,7 @@ This is my personal collection of topics I would like to learn about. A lot of i
 <ul><p>
 <li><a href="https://en.wikipedia.org/wiki/Allergic_rhinitis">Allergic rhinitis</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Aspirin">Aspirin</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Cholinergic">"Cholinergic"</a></li>
 </p></ul></li>
 
 <li><h3>Spiritual</h3>
