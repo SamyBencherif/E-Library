@@ -9,6 +9,7 @@ This is my personal collection of topics I would like to learn about. A lot of i
 <ul><p>
 <li><a href="http://raisuman123.files.wordpress.com/2013/05/david-foster-wallace-infinite-jest-v2-0.pdf">Infinite Jest</a></li>
 <li><a href="http://ebooks.rahnuma.org/children/Stories/Roald.Dahl/Roald.Dahl_The-Twits.pdf">Roald.Dahl_The-Twits.pdf</a></li>
+  <li>The Divine Comedy</li>
 </p></ul></li>
 
 <li><h3>CG/Game Dev Tutorials</h3>
