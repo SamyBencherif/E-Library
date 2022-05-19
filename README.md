@@ -7,6 +7,21 @@ This is my personal collection of topics I would like to learn about. A lot of i
 <ul><p>
 <li><h3>Books</h3>
 <ul><p>
+  
+ | TITLE | AUTHOR | DESCRIPTION / KEYWORDS |
+ |-|-|-|
+ | Material Beings | Peter Van Inwagen | Philosophy of composite objects |
+ | Filthy Animals | Brandon Taylor | Examination of human messiness |
+ | Summerwater | Sarah Moss |Human problems, Nature, & Time |
+ |Yolk |Mary H.K Choi |Love, Family, Identity, Illness |
+|The Life of the Mind |Christine Smallwood|Satirizes Academia. Feminine perspective & subject. features Eroding Youthful Dreams |
+|Want Me|Tracy Clark-Flory|Sexuality, Feminist theory, and Anectdotes|
+|Gordo|Jaime Cortez|Mexican-Americans in California: childhood stories, adversity & identity
+|Darryl|Jackie Ess|Edge of revelation, cuckolding, meditative, Trans
+|Alone in Space|Tillie Walden|Collection of Graphic Novels: self, illness, imagination
+|Gay Bar|Jeremy Atherton Lin|Memoir, Cultural perspective, Gay
+|Curb|Divya Victor|Short stories, poems, “blood blooming from [an] open wood”, experience of racism
+|Each of Us Killers|Jenny Bhatt|“Clear eyed tales of unvarnished humanity”
 <li><a href="http://raisuman123.files.wordpress.com/2013/05/david-foster-wallace-infinite-jest-v2-0.pdf">Infinite Jest</a></li>
 <li><a href="http://ebooks.rahnuma.org/children/Stories/Roald.Dahl/Roald.Dahl_The-Twits.pdf">Roald.Dahl_The-Twits.pdf</a></li>
   <li>The Divine Comedy</li>
