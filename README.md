@@ -8,6 +8,9 @@ This is my personal collection of topics I would like to learn about. A lot of i
 <li><h3>Books</h3>
 <ul><p>
   
+  * Play: Le Bourgeois gentilhomme
+Play by Molière
+  
  | TITLE | AUTHOR | DESCRIPTION / KEYWORDS |
  |-|-|-|
  | Material Beings | Peter Van Inwagen | Philosophy of composite objects |
