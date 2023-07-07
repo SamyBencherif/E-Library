@@ -181,3 +181,9 @@ Play by Molière
 <li><a href="https://en.wikipedia.org/wiki/Bechdel_test">Bechdel test</a></li>
 </p></ul></li>
 </p></ul></li>
+
+TODO: sort
+
+- comic: https://astrolavas.tumblr.com/post/660893357192724480/the-idea-of-hunter-just-being-slowly-integrated
+- pbr-book.org
+- hand made hero
